@@ -1,0 +1,8 @@
+flask
+gunicorn
+google-genai
+tavily-python
+piper-tts
+vosk
+requests
+python-dotenv
