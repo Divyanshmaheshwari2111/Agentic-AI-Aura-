@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, jsonify, send_file
-from google import genai
 from tavily import TavilyClient
+from google import genai
 from piper import PiperVoice
 from vosk import Model, KaldiRecognizer
 import requests
